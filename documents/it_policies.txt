@@ -1,0 +1,153 @@
+IT POLICIES AND PROCEDURES
+
+==========================
+VPN ACCESS
+==========================
+
+Setup Instructions:
+1. Download Cisco AnyConnect from IT Portal (it.company.com)
+2. Install the application on your device
+3. Use your company email as username
+4. Password is your regular company password
+5. For first-time setup, contact IT help desk for MFA setup
+
+Connection:
+- VPN server address: vpn.company.com
+- Always use VPN when accessing company resources remotely
+- VPN is required for accessing internal systems and databases
+- If VPN disconnects, reconnect before continuing work
+
+Troubleshooting:
+- Can't connect? Verify your password hasn't expired
+- Connection slow? Try different VPN server in your region
+- Still issues? Contact IT helpdesk: helpdesk@company.com
+
+==========================
+PASSWORD POLICY
+==========================
+
+Requirements:
+- Minimum 12 characters
+- Must include uppercase, lowercase, number, and special character
+- Cannot reuse last 5 passwords
+- Must change every 90 days
+- Account locks after 5 failed attempts
+
+Password Reset:
+- Self-service portal: passwords.company.com
+- Email verification required
+- Or contact IT helpdesk with employee ID
+
+Security Tips:
+- Never share passwords with anyone
+- Use password manager (LastPass provided by company)
+- Don't write passwords down
+- Use different passwords for work and personal accounts
+
+==========================
+SOFTWARE REQUESTS
+==========================
+
+Approved Software:
+- Microsoft Office 365 (pre-installed)
+- Slack for team communication
+- Zoom for video conferencing
+- GitHub for code repositories
+- Jira for project management
+
+Requesting New Software:
+1. Submit request through IT Service Portal
+2. Provide business justification
+3. Manager approval required
+4. Security review (1-2 weeks)
+5. IT will install if approved
+
+Free/Open Source Software:
+- Requires security review before installation
+- Submit request with software name and website
+- IT will scan for security vulnerabilities
+- Approval process: 3-5 business days
+
+==========================
+SECURITY BEST PRACTICES
+==========================
+
+Email Security:
+- Be cautious of phishing emails
+- Never click suspicious links
+- Verify sender before opening attachments
+- Report suspicious emails to security@company.com
+
+Data Protection:
+- Encrypt sensitive data
+- Don't store customer data on local drives
+- Use company-approved cloud storage (OneDrive, SharePoint)
+- Never email passwords or credit card information
+
+Device Security:
+- Keep laptop locked when away from desk
+- Enable disk encryption (BitLocker/FileVault)
+- Install security updates promptly
+- Report lost/stolen devices immediately to IT
+
+Multi-Factor Authentication (MFA):
+- Required for all accounts
+- Use Microsoft Authenticator app
+- Backup codes stored in secure location
+- Never share MFA codes
+
+==========================
+HELP DESK
+==========================
+
+Contact Information:
+- Email: helpdesk@company.com
+- Phone: (555) 123-4568
+- Chat: IT Portal (it.company.com)
+- Emergency (after hours): (555) 123-4599
+
+Hours:
+- Monday-Friday: 7 AM - 7 PM
+- Saturday: 9 AM - 2 PM
+- Sunday: Closed (emergency only)
+
+Response Times:
+- Critical (system down): 1 hour
+- High (major impact): 4 hours
+- Medium (some impact): 1 business day
+- Low (minimal impact): 3 business days
+
+Self-Service Resources:
+- IT Portal: it.company.com
+- Knowledge Base: kb.company.com
+- Video tutorials available
+- FAQ section for common issues
+
+==========================
+EQUIPMENT
+==========================
+
+Standard Issue:
+- Laptop (MacBook Pro or Dell XPS)
+- Monitor (24" or 27")
+- Keyboard and mouse
+- Headset for calls
+- Docking station (if needed)
+
+Equipment Requests:
+- Submit through IT Portal
+- Manager approval required for non-standard items
+- Budget considerations apply
+- Delivery time: 1-2 weeks
+
+Replacement Policy:
+- Laptops: Every 3 years
+- Monitors: Every 5 years
+- Accessories: As needed (with justification)
+- Damaged equipment: Report immediately for replacement
+
+Return Process:
+- Upon separation, return all equipment to IT
+- Wipe personal data before return
+- Include all accessories and cables
+- Receipt provided upon return
